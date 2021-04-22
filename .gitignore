@@ -1,3 +1,6 @@
+/node_modules
+npm-debug.log
 .DS_Store
-Secrets.txt
-*.txt
+/*.env
+package-lock.json
+.README.md
